@@ -10,13 +10,8 @@ $version = "";
 $useSsl = false;
 $userStartTls = false;
 
-/*
-$dn = "daniel@zakor.ad";
-$password = "#afpm12";
-*/
-
-$dn = "administrateur@zakor.ad";
-$password = "nvrfrgt";
+$dn = "anadmin";
+$password = "mypassword";
 
 // Active Directory DN
 $ldap_dn = "OU=Users,DC=zakor,DC=ad";
